@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ComposeArch</string>
+    <string name="movie">电影</string>
+    <string name="discovery">发现</string>
+    <string name="other">其他</string>
+    <string name="mine">我的</string>
+
+    <string name="toast_exit_app">再按一次退出应用</string>
+</resources>

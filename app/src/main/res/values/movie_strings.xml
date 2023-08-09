@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_no_rating">暂无评分</string>
+    <string name="title_movie_screen">热门电影</string>
+    <string name="title_movie_detail">电影</string>
+    <string name="label_intro">简介</string>
+    <string name="label_movie_credits">演职员</string>
+    <string name="label_in_douban">在豆瓣</string>
+    <string name="label_trailer">预告片</string>
+    <string name="label_movie_photos">预告片 / 剧照</string>
+    <string name="label_movie_related">喜欢这部电影的人也喜欢</string>
+    <string name="fmt_movie_watch_num">看过 %d</string>
+    <string-array name="movieType">
+        <item>影院热映</item>
+        <item>豆瓣热门</item>
+    </string-array>
+    <string-array name="movieSortType">
+        <item>热度</item>
+        <item>最新</item>
+        <item>评分</item>
+    </string-array>
+    <string-array name="movieSortArg">
+        <item>recommend</item>
+        <item>time</item>
+        <item>rank</item>
+    </string-array>
+</resources>
